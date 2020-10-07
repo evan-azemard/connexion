@@ -138,6 +138,8 @@ input{
 	margin-left: 35vh;
 	margin-top: -5vh;
 	transition: all 1.5s ease-in-out;
+	white: 20px;
+	height: 20px;
 
 
 }
@@ -146,7 +148,7 @@ input{
   background: #998B7D;
   margin-top: -2.8vh;
   font-size: 3vh;
-  height: 5vh;
+  height: 5.6vh;
 }
 
 .footer2{
@@ -166,7 +168,7 @@ input{
 .logoimg{
 	position: absolute;
 	width: 5.1vh;
-	top: 94.8%;
+	top: 94.6%;
 	left: 0%;
 
 }
